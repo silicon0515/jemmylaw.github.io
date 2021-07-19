@@ -21,8 +21,8 @@
 <img src="images/albert camus book pic.jpg?raw=true"/>
 <img src="images/book my brilliant friend.jpeg"/>
 <img src="images/harry potter book pic.jpg?raw=true"/>
-<img src="images/余華 book image.jpg?raw=true"/>
-<img src="images/余華 book image.jpg?raw=true"/>
+<img src="images/albert sisyphus.jpg?raw=true"/>
+<img src="images/albert sisyphus.jpg?raw=true"/>
 
 ---
 
