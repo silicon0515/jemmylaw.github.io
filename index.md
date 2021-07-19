@@ -30,7 +30,7 @@
 ### My Academic Interest
 
 - [Cell Signaling](http://example.com/)
-- <img src="images/book image.jpg?raw=true"/>
+- <img src="images/cell signaling image.jpg?raw=true"/>
 - [DNA](http://example.com/)
 - <img src="images/book image.jpg?raw=true"/>
 - [Quantum Physics](http://example.com/)
