@@ -29,9 +29,9 @@
 
 ### My Academic Interest
 
-- [Cell Signaling](http://example.com/)
+- [Cell Signaling](/pdf/cell signaling pdf) 
 - <img src="images/cell signaling image.jpg?raw=true"/>
-- [DNA](http://example.com/)
+- [DNA](https://en.wikipedia.org/wiki/DNA)
 - <img src="images/book image.jpg?raw=true"/>
 - [Quantum Physics](http://example.com/)
 - <img src="images/book image.jpg?raw=true"/>
