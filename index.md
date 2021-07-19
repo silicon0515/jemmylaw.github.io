@@ -5,12 +5,12 @@
 ### My Hobbies 
 
 [Piano](/sample_page)
-<embed src="videoplayback.mp4?raw=true" height="600" width="800" /></embed>
+<embed src="videoplayback.mp4?raw=true" autostart="false" height="600" width="800" />
 
 
 ---
 [Feather Shuttlecock](/pdf/sample_presentation.pdf)
-<embed src="20170725-upower_CJC3yo5K.mp4?raw=true" autostart="false" height="600" width="800" /></embed>
+<embed src="20170725-upower_CJC3yo5K.mp4?raw=true" autostart="false" height="600" width="800" />
 
 
 ---
