@@ -9,12 +9,12 @@ Piano
 
 
 ---
-[Feather Shuttlecock](/pdf/sample_presentation.pdf)
+Feather Shuttlecock
 <embed src="20170725-upower_CJC3yo5K.mp4?raw=true" autostart="false" height="600" width="800" />
 
 
 ---
-[Reading books](http://example.com/)
+Reading books
 <img src="images/book image.jpg?raw=true"/>
 <img src="images/余華 book image.jpg?raw=true"/>
 <img src="images/book 人的兒子.jpg?raw=true"/>
