@@ -10,7 +10,8 @@
 
 ---
 [Feather Shuttlecock](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<embed src="20170725-upower_CJC3yo5K.mp4?raw=true" autostart="false" height="600" width="800" /></embed>
+
 
 ---
 [Reading books](http://example.com/)
