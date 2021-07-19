@@ -34,7 +34,7 @@
 - [DNA](https://en.wikipedia.org/wiki/DNA)
 - <img src="images/DNA image.jpg?raw=true"/>
 - [Quantum Physics](/pdf/quantum.pdf)
-- <img src="images/book image.jpg?raw=true"/>
+- <img src="images/quantum physics image.jpg?raw=true"/>
 
 
 ---
