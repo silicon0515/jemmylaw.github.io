@@ -17,7 +17,7 @@
 <img src="images/余華 book image.jpg?raw=true"/>
 <img src="images/book 人的兒子.jpg?raw=true"/>
 <img src="images/豐子愷 book image.jpg?raw=true"/>
-<img src="images/余華 book image.jpg?raw=true"/>
+<img src="images/周國平 book image.jpg?raw=true"/>
 <img src="images/余華 book image.jpg?raw=true"/>
 <img src="images/余華 book image.jpg?raw=true"/>
 
