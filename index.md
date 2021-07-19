@@ -5,7 +5,7 @@
 ### My Hobbies 
 
 [Piano](/sample_page)
-<embed src="videoplayback.mp4?raw=true" autostart="true" height="600" width="800" /></embed>
+<embed src="videoplayback.mp4?raw=true" height="600" width="800" /></embed>
 
 
 ---
