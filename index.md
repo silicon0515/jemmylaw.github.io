@@ -4,7 +4,7 @@
 
 ### My Hobbies 
 
-[Piano](/sample_page)
+Piano
 <embed src="videoplayback.mp4?raw=true" autostart="false" height="600" width="800" />
 
 
