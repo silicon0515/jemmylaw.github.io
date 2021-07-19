@@ -32,7 +32,7 @@
 - [Cell Signaling](/pdf/cell signaling pdf) 
 - <img src="images/cell signaling image.jpg?raw=true"/>
 - [DNA](https://en.wikipedia.org/wiki/DNA)
-- <img src="images/book image.jpg?raw=true"/>
+- <img src="images/DNA image.jpg?raw=true"/>
 - [Quantum Physics](/pdf/quantum.pdf)
 - <img src="images/book image.jpg?raw=true"/>
 
