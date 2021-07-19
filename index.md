@@ -2,28 +2,27 @@
 
 ---
 
-### Category Name 1 
+### My Hobbies 
 
-[My Hobbies](/sample_page)
+[Piano](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Feather Shuttlecock](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Reading books](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### My Academic Interest
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Cell Signalling](http://example.com/)
+- [DNA](http://example.com/)
+- [Quantum Physics](http://example.com/)
+
 
 ---
 
